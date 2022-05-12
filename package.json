@@ -1,0 +1,22 @@
+{
+  "name": "discord",
+  "version": "1.0.0",
+  "description": "Discord Bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ben200002/Discord.js.git"
+  },
+  "author": "Ben200002",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ben200002/Discord.js/issues"
+  },
+  "homepage": "https://github.com/Ben200002/Discord.js#readme",
+  "dependencies": {
+    "discord.js": "^13.6.0"
+  }
+}
