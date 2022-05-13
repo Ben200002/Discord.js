@@ -1,22 +1,16 @@
 {
-  "name": "discord",
+  "name": "code",
   "version": "1.0.0",
-  "description": "Discord Bot",
+  "description": "Bot",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Ben200002/Discord.js.git"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon"
   },
   "author": "Ben200002",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/Ben200002/Discord.js/issues"
-  },
-  "homepage": "https://github.com/Ben200002/Discord.js#readme",
   "dependencies": {
-    "discord.js": "^13.6.0"
+    "discord.js": "^13.6.0",
+    "nodemon": "^2.0.16"
   }
 }
