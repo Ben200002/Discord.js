@@ -1,1 +1,1 @@
-This is so there is a main branch
+# this is a discord.js bot
